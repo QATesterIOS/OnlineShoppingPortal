@@ -1,2 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="/Users/munthera/Desktop/automation task/OnlineShoppingStore"><classes/></test></suite>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="/Users/munthera/Desktop/automation task/OnlineShoppingStore/src/test/java/SignUpPageTest.java">
+        <classes/>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="/Users/munthera/Desktop/automation task/OnlineShoppingStore/src/test/java/ProductDetailPageTest.java">
+        <classes/>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="/Users/munthera/Desktop/automation task/OnlineShoppingStore/src/test/java/OrdersPageTest.java">
+        <classes/>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="/Users/munthera/Desktop/automation task/OnlineShoppingStore/src/test/java/HomePageTest.java">
+        <classes/>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="/Users/munthera/Desktop/automation task/OnlineShoppingStore/src/test/java/SignInPageTest.java">
+        <classes/>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="/Users/munthera/Desktop/automation task/OnlineShoppingStore/src/test/java/ProductsPageTest.java">
+        <classes/>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="/Users/munthera/Desktop/automation task/OnlineShoppingStore/src/test/java/E2EScenarioAvailableUser.java">
+        <classes/>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="/Users/munthera/Desktop/automation task/OnlineShoppingStore/src/test/java/EditProductPageTest.java">
+        <classes/>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="/Users/munthera/Desktop/automation task/OnlineShoppingStore/src/test/java/E2EScenarioSignNewUser.java">
+        <classes/>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="/Users/munthera/Desktop/automation task/OnlineShoppingStore/src/test/java/CartPageTest.java">
+        <classes/>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="/Users/munthera/Desktop/automation task/OnlineShoppingStore/src/test/java/AbstractTest.java">
+        <classes/>
+    </test>
+</suite>

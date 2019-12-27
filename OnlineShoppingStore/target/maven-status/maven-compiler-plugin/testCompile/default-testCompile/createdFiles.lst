@@ -1,0 +1,6 @@
+stepdefs/UserOfTypeEmployeeEditsProductInfoStepDef.class
+stepdefs/PlaceOrderWithAvailableUserStepDef.class
+stepdefs/PlaceOrderWithNewSignedUpUserStepDef.class
+stepdefs/UserOfTypeManagerCompletesANewOrderStepDef.class
+stepdefs/UserOfTypeManagerEditsProductInfoStepDef.class
+stepdefs/UserOfTypeManagerCancelsAnOrderStepDef.class

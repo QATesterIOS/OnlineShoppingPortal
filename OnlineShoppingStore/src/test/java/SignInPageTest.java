@@ -35,6 +35,7 @@ public class SignInPageTest extends AbstractTest {
         }
     }
 
+    // This test assumes there is a valid user with email "maa190@hotmail.com" and pass 1234
     @Test
     private void loginWithInvalidPassword() {
         signIn.setUserName("maa190@hotmail.com"); // valid user name

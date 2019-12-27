@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="160" started-at="2019-12-26T14:26:37Z" finished-at="2019-12-26T14:26:37Z">
+    <groups>
+    </groups>
+    <test name="/Users/munthera/Desktop/automation task/OnlineShoppingStore/src/test/java/SignUpPageTest.java" duration-ms="2" started-at="2019-12-26T14:26:37Z" finished-at="2019-12-26T14:26:37Z">
+    </test> <!-- /Users/munthera/Desktop/automation task/OnlineShoppingStore/src/test/java/SignUpPageTest.java -->
+    <test name="/Users/munthera/Desktop/automation task/OnlineShoppingStore/src/test/java/ProductDetailPageTest.java" duration-ms="0" started-at="2019-12-26T14:26:37Z" finished-at="2019-12-26T14:26:37Z">
+    </test> <!-- /Users/munthera/Desktop/automation task/OnlineShoppingStore/src/test/java/ProductDetailPageTest.java -->
+    <test name="/Users/munthera/Desktop/automation task/OnlineShoppingStore/src/test/java/OrdersPageTest.java" duration-ms="0" started-at="2019-12-26T14:26:37Z" finished-at="2019-12-26T14:26:37Z">
+    </test> <!-- /Users/munthera/Desktop/automation task/OnlineShoppingStore/src/test/java/OrdersPageTest.java -->
+    <test name="/Users/munthera/Desktop/automation task/OnlineShoppingStore/src/test/java/HomePageTest.java" duration-ms="1" started-at="2019-12-26T14:26:37Z" finished-at="2019-12-26T14:26:37Z">
+    </test> <!-- /Users/munthera/Desktop/automation task/OnlineShoppingStore/src/test/java/HomePageTest.java -->
+    <test name="/Users/munthera/Desktop/automation task/OnlineShoppingStore/src/test/java/SignInPageTest.java" duration-ms="0" started-at="2019-12-26T14:26:37Z" finished-at="2019-12-26T14:26:37Z">
+    </test> <!-- /Users/munthera/Desktop/automation task/OnlineShoppingStore/src/test/java/SignInPageTest.java -->
+    <test name="/Users/munthera/Desktop/automation task/OnlineShoppingStore/src/test/java/ProductsPageTest.java" duration-ms="0" started-at="2019-12-26T14:26:37Z" finished-at="2019-12-26T14:26:37Z">
+    </test> <!-- /Users/munthera/Desktop/automation task/OnlineShoppingStore/src/test/java/ProductsPageTest.java -->
+    <test name="/Users/munthera/Desktop/automation task/OnlineShoppingStore/src/test/java/E2EScenarioAvailableUser.java" duration-ms="0" started-at="2019-12-26T14:26:37Z" finished-at="2019-12-26T14:26:37Z">
+    </test> <!-- /Users/munthera/Desktop/automation task/OnlineShoppingStore/src/test/java/E2EScenarioAvailableUser.java -->
+    <test name="/Users/munthera/Desktop/automation task/OnlineShoppingStore/src/test/java/EditProductPageTest.java" duration-ms="0" started-at="2019-12-26T14:26:37Z" finished-at="2019-12-26T14:26:37Z">
+    </test> <!-- /Users/munthera/Desktop/automation task/OnlineShoppingStore/src/test/java/EditProductPageTest.java -->
+    <test name="/Users/munthera/Desktop/automation task/OnlineShoppingStore/src/test/java/E2EScenarioSignNewUser.java" duration-ms="0" started-at="2019-12-26T14:26:37Z" finished-at="2019-12-26T14:26:37Z">
+    </test> <!-- /Users/munthera/Desktop/automation task/OnlineShoppingStore/src/test/java/E2EScenarioSignNewUser.java -->
+    <test name="/Users/munthera/Desktop/automation task/OnlineShoppingStore/src/test/java/CartPageTest.java" duration-ms="0" started-at="2019-12-26T14:26:37Z" finished-at="2019-12-26T14:26:37Z">
+    </test> <!-- /Users/munthera/Desktop/automation task/OnlineShoppingStore/src/test/java/CartPageTest.java -->
+    <test name="/Users/munthera/Desktop/automation task/OnlineShoppingStore/src/test/java/AbstractTest.java" duration-ms="0" started-at="2019-12-26T14:26:37Z" finished-at="2019-12-26T14:26:37Z">
+    </test> <!-- /Users/munthera/Desktop/automation task/OnlineShoppingStore/src/test/java/AbstractTest.java -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
